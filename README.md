@@ -1,7 +1,7 @@
 # Bank-Management-System
 Through C++
 
-BANK MANAGEMENT SYSTEM IN C++ WITH SOURCE CODE
+<h2>BANK MANAGEMENT SYSTEM IN C++ WITH SOURCE CODE<h2>
 
 About Project Bank Management System is based on a concept of recording customer’s account details. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, check balance, view all account holders detail, close an account and modify an account. All the main features for banking system are set in this project.
 
@@ -11,7 +11,7 @@ This project uses classes and file handling features of C++. In order to store a
 
 In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE). For the project demo, have a look at the image slider below.
 
-Features:
+<h3>Features:<h3>
 
 Create an account<br>
 Deposit amount<br>
@@ -19,5 +19,5 @@ Withdraw amount<br>
 Balance Enquiry<br>
 List account holder’s detail<br>
 Close an account<br>
-Modify an account<br>
-IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE BANK MANAGEMENT SYSTEM FEEL FREE TO CONTACT US:
+Modify an account<br><br<<br>
+<h4>IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE BANK MANAGEMENT SYSTEM FEEL FREE TO CONTACT US:<h4>
