@@ -13,11 +13,11 @@ In order to run the project, you must have installed Dev C++ or Code Blocks on y
 
 Features:
 
-Create an account
-Deposit amount
-Withdraw amount
-Balance Enquiry
-List account holder’s detail
-Close an account
-Modify an account
+Create an account<br>
+Deposit amount<br>
+Withdraw amount<br>
+Balance Enquiry<br>
+List account holder’s detail<br>
+Close an account<br>
+Modify an account<br>
 IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE BANK MANAGEMENT SYSTEM FEEL FREE TO CONTACT US:
