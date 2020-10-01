@@ -21,3 +21,4 @@ List account holder’s detail<br>
 Close an account<br>
 Modify an account<br><br><br>
 <h4>IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE BANK MANAGEMENT SYSTEM FEEL FREE TO CONTACT US:</h4>
+<b>harshit.tripathi8055@gmail.com</b>

@@ -233,4 +233,12 @@ Bank::Bank()
                                                                                                                                                         }
                                                                                                                                                          Bank::~Bank()
                                                                                                                                                           {
-                                                                                                                                                            
+                                                                                                                                                              ofstream outfile;  
+                                                                                                                                                                outfile.open("Bank.data", ios::trunc);    
+                                                                                                                                                                    map<long,Account>::iterator itr; 
+                                                                                                                                                                       for(itr=accounts.begin();itr!=accounts.end();itr++) 
+                                                                                                                                                                          {  
+                                                                                                                                                                                outfile<<itr->second; 
+                                                                                                                                                                                   }
+                                                                                                                                                                                       outfile.close();
+                                                                                                                                                                                        }
